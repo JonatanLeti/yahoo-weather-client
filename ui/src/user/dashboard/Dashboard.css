@@ -1,0 +1,21 @@
+.dashboard-container {
+    border: 1px solid #fff;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.city-container {
+    width : 300px;
+    margin-left : 50px;
+    padding : 10px;
+    background-color : #F2F2F2;
+    display: block;
+    display: inline-block;
+    vertical-align: top;
+
+    border:2px solid white;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    text-decoration: none;
+}
